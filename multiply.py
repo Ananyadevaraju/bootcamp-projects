@@ -14,3 +14,4 @@ mul=1
 for i in b:
 	mul *= i
 print(mul)
+
